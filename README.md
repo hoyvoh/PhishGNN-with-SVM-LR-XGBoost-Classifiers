@@ -1,4 +1,4 @@
-# Phishing Detection Project
+# Phishing Detection GNN+LR/SVM/XGBoost Classifiers
 
 ## [Report](report.com)
 
