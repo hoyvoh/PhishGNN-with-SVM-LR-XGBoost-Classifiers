@@ -44,5 +44,5 @@ The **target label** is a binary classification:
 ## Contributors
 - Ho Ngoc Tuong Vy | hovyoh |  hntvy23@gmail.com | 21521685
 - Nguyen Thi Van Anh |  | 21521835@gm.uit.edu.vn | 21521835
-- Ngo Thuan Phat |  | 21522445@gm.uit.edu.vn | 21522445
-- Nguyen Toan Khang |  | 21522195@gm.uit.edu.vn | 21522195
+- Ngo Thuan Phat | thupha41 | 21522445@gm.uit.edu.vn | 21522445
+- Nguyen Toan Khang | creamygreen | 21522195@gm.uit.edu.vn | 21522195
